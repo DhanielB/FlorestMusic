@@ -1,2 +1,2 @@
 # FlorestMusic
-Um app desktop feito por mim em Java
+Um app desktop de musica feito por mim em Java
